@@ -9,7 +9,7 @@ tiedot is a document database engine that uses __JSON__ as document notation; it
 
 tiedot has fault-tolerant data structures that put your data safety *first*, while easily scales to 4+ CPU cores.
 
-> tiedot has very stable performance, even with millions of records! It consistently achieves high throughput - swallow more than 120k records or 80k complicated queries per second with confidence.
+!> tiedot has very stable performance, even with millions of records! It consistently achieves high throughput - swallow more than 120k records or 80k complicated queries per second with confidence.
 
 ### Contributions welcome!
 
@@ -36,17 +36,3 @@ Thanks to the very welcoming and helpful community of Go - when tiedot made its 
 I love Go because it offers stable and predictable performance characteristics, very fast compilation speed and a complete toolchain for all development activities. And unlike many other languages, Go does not require an intelligent IDE to improve productivity of users - many of which find a syntax-highlighted text editor to be sufficient for coding Go!
 
 There are several other data structure servers/DB engines written in Go, namely "etcd", "leveldb-go" and "ql"; they emphasis on different usage scenarios, for example "etcd" is a data structure server designed for configuration management and service discovery, "leveldb-go" is a re-implementation of popular LevelDB in Go, and "ql" is an embeddable DB engine providing SQL capability. After all, when it comes to choosing a general purpose, embeddable NoSQL database engine, tiedot is perhaps the only choice so far (as far as I know).
-
-[Tutorial: tiedot in 10 minutes]: https://github.com/HouzuoGuo/tiedot/wiki/Tutorial
-[API reference and embedded usage]: https://github.com/HouzuoGuo/tiedot/wiki/API-reference-and-embedded-usage
-[Version History]: https://github.com/HouzuoGuo/tiedot/wiki/Version-History
-[Data structures]: https://github.com/HouzuoGuo/tiedot/wiki/Data-structures
-[Query processor and index]: https://github.com/HouzuoGuo/tiedot/wiki/Query-processor-and-index
-[Concurrency and networking]: https://github.com/HouzuoGuo/tiedot/wiki/Concurrency-and-networking
-[Performance tuning and benchmarks]: https://github.com/HouzuoGuo/tiedot/wiki/Performance-tuning-and-benchmarks
-[Limitations]: https://github.com/HouzuoGuo/tiedot/wiki/Limitations
-[Email me]: mailto:guohouzuo@gmail.com
-[Twitter]: https://twitter.com/hzguo
-[blog]: http://allstarnix.blogspot.com.au
-[Issues]: https://github.com/HouzuoGuo/tiedot/issues
-[Contributors and License]: https://github.com/HouzuoGuo/tiedot/wiki/Contributors-and-License
