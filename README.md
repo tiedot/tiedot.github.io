@@ -11,6 +11,8 @@ tiedot has fault-tolerant data structures that put your data safety *first*, whi
 
 !> tiedot has very stable performance, even with millions of records! It consistently achieves high throughput - swallow more than 120k records or 80k complicated queries per second with confidence.
 
+![](http://dl4.joxi.net/drive/2017/11/13/0015/0439/1012151/51/d7a1b7c2d5.png)
+
 ### Contributions welcome!
 
 tiedot is a very small project in the large open source community - it is growing fast thanks to the 800+ stars and watchers, as well as many contributors for their feedback, comments, ideas and code. Your contribution matters a lot!
