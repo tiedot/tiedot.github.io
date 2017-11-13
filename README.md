@@ -15,15 +15,15 @@ tiedot has fault-tolerant data structures that put your data safety *first*, whi
 
 tiedot is a very small project in the large open source community - it is growing fast thanks to the 800+ stars and watchers, as well as many contributors for their feedback, comments, ideas and code. Your contribution matters a lot!
 
-Pull requests/forks all welcome, and please share your thoughts, questions and feature requests in [Issues] section.
+Pull requests/forks all welcome, and please share your thoughts, questions and feature requests in [Issues](https://github.com/HouzuoGuo/tiedot/issues) section.
 
-Let me know what you think about tiedot, I love to hear from you! Please [Email me], follow my [Twitter] and [blog].
+Let me know what you think about tiedot, I love to hear from you! Please [Email me](mailto:guohouzuo@gmail.com), follow my [Twitter](https://twitter.com/hzguo) and [blog](https://allstarnix.blogspot.ru/).
 
 ### Get tiedot!
 
-tiedot is distributed under the [Simplified BSD license][Contributors and License].
+tiedot is distributed under the [Simplified BSD license](/contributors_and_license.md/) [Contributors and License](/contributors_and_license.md/).
 
-The newest version 3.2 introduces Javascript Web Token authorization in addition to the conventional HTTP APIs. Please check out [Version History] for change logs and more version information.
+The newest version 3.2 introduces Javascript Web Token authorization in addition to the conventional HTTP APIs. Please check out [Version History](/version_history.md/) for change logs and more version information.
 
 ### Project Story
 

@@ -1,3 +1,3 @@
 - [En](/)
-- [Ru](/ru/)
+- [Ru](/ru/ ":disabled")
 
