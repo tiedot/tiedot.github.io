@@ -8,4 +8,6 @@
 - [Performance tuning and benchmarks](performance_tuning_and_benchmarks.md)
 - [Contributors and License](contributors_and_license.md)
 - [Version History](version_history.md)
+- [Docker](docker.md)
+- [Application UI](ui.md)
 
